@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from "../ui/udemy-logo.jpeg";
+import logo from "../ui/udemy_logo.jpeg";
 import person from "../ui/persons.jpg";
 
 import { FaTag, FaHome, FaList, FaClipboard, FaLightbulb, FaLock, FaBatteryFull, FaUserShield } from 'react-icons/fa'
@@ -17,7 +17,7 @@ function Sidebar() {
             </a>
             <ul className='nav'>
                 <p>hey</p>
-                
+
                 <li className='com'> <li>
                     <a href='#' className='Link noul flex c333'>
                         <FaTag className='ico s15 icon-home flex' />
