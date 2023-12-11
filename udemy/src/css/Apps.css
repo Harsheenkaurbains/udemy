@@ -1,18 +1,16 @@
+//side bar
 .sidebar{
-    width: 250px;
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
+    width: 275px;
 }
 .sidebar .logo{
-    padding: 10px 5px;
+    padding: 10px 25px;
 }
 .sidebar .logo img{
     height: 60px;
 }
 
 .sidebar .nav{
-    padding:  30px 15px;
+    padding:  30px 25px;
 }
 .sidebar .nav li a{
     padding: 0%;
@@ -21,26 +19,21 @@
 }
 .sidebar .updated-course{
 margin-left: 30px;
-padding: 10px 0px 10px 20px;
-
-background-color: rgb(220, 217, 217);
-border-radius: 20px;
 }
 .sidebar .updated-course .ico{
 background-color: red;
 color: #fff;
 padding: 10px;
-border-radius: 22px;
+border-radius: 8px;
 }
 .sidebar .updated-course .coursename{
-margin-left:30px ;
-padding-left: 30px;
+   
 }
 /* .sidebar .updated-course .aurthor */
 .sidebar .stats{
 padding-top: 40px;
 display: flex;
-padding-left: 30px;
+padding-left: 15px;
 }
 .sidebar .stats .stats-box{
 padding-top: 10px;
@@ -71,7 +64,7 @@ margin-top: -15px;
     font-size: 20px;
     margin-top: 40px;
     margin-left: 25px;
-    padding: 10px 0px 10px 10px;
+    padding: 10px 0px 10px 0px;
     display: flex;
 border-radius: 20px;
 }
@@ -86,3 +79,21 @@ margin-top: 2px;
 font-size: 17px;
 
 }
+
+.app-content{
+    flex:2;
+    padding: 20px 0px;
+}
+
+//home page
+.home-page{}
+.home-page{}.section{}
+.home-page{}.section.title{
+    margin-bottom: 20px;
+}
+.home-page{}.section.tutors{}
+.home-page{}.section.tutors .tutor{}
+.home-page{}.section.tutors .tutor:hover{}
+
+
+

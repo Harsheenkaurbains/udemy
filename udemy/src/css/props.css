@@ -56,3 +56,16 @@ h2{
 .abs{
 
 }
+.fontb{
+    font-weight: bold;
+}
+.rel{
+    position: relative;
+}
+.aurthor{
+    margin-left: 5vw;
+    font-size: 1.8vh;
+}
+.fontn{
+    font-weight: normal;
+}
