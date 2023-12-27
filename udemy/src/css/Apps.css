@@ -1,4 +1,4 @@
-//side bar
+/*side bar*/
 .sidebar{
     width: 275px;
 }
@@ -85,15 +85,15 @@ font-size: 17px;
     padding: 20px 0px;
 }
 
-//home page
+/*home page*/
 .home-page{}
-.home-page{}.section{}
-.home-page{}.section.title{
+.home-page .section{}
+.home-page .section .title{
     margin-bottom: 20px;
 }
-.home-page{}.section.tutors{}
-.home-page{}.section.tutors .tutor{}
-.home-page{}.section.tutors .tutor:hover{}
+.home-page .section .tutors{}
+.home-page .section .tutors .tutor{}
+.home-page .section .tutors .tutor:hover{}
 
 
 

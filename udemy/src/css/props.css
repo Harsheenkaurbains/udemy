@@ -6,6 +6,10 @@ body{
 .fixed{
     position: fixed;
 }
+.abs{
+    position: absolute;
+}
+.rel{position: relative;}
 .Apps flex{
     display: flex;
 }
@@ -53,9 +57,7 @@ h2{
     font-weight: normal;
     /* margin-top: -20px; */
 }
-.abs{
 
-}
 .fontb{
     font-weight: bold;
 }

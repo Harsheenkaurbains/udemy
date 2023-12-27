@@ -9,11 +9,9 @@ import Homepage from "./screen/home";
 function App() {
   return (
     <div className="App flex">
+      <Homepage />
+
       <Sidebar />
-      <div className="app-content">
-        <Homepage />
-      </div>
-      <Header />
     </div>
   );
 }
